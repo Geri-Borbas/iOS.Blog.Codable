@@ -1,0 +1,7 @@
+## User settings
+xcuserdata/
+
+## Pods
+Pods
+!Podfile
+!Podfile.lock
