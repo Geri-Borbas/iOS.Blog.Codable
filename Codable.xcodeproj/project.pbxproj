@@ -32,7 +32,7 @@
 		5515A7EE2560564C00ACE99C /* Circle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Circle.swift; sourceTree = "<group>"; };
 		5515A7F12560569400ACE99C /* CircleSpecs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleSpecs.swift; sourceTree = "<group>"; };
 		5515A7F625605BEE00ACE99C /* SettingsSpecs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsSpecs.swift; sourceTree = "<group>"; };
-		5515A7F92560894F00ACE99C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		5515A7F92560894F00ACE99C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; tabWidth = 4; usesTabs = 1; };
 		5515A7FD25608CC300ACE99C /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
 		5515A7FF25608CFA00ACE99C /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		556CEE03255F43A70045409E /* CodableUnitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CodableUnitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
