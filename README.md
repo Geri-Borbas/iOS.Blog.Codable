@@ -6,7 +6,7 @@ Some lightweight extensions, and property wrappers to make life easier with `Cod
 struct User: Codable, Equatable {
 
 	@DefaultToZero var id: Int
-    @DefaultToFalse var isAdmin: Bool
+	@DefaultToFalse var isAdmin: Bool
 	let firstName: String
 	let lastName: String
 	let profilePictureUrl: URL
@@ -16,7 +16,7 @@ struct User: Codable, Equatable {
 struct Settings: Codable, Equatable {
 
 	@DefaultToZero var page: Int
-    @SkipEncodingBool var isAdmin: Bool
+	@SkipEncodingBool var isAdmin: Bool
 }
 ```
 
@@ -41,7 +41,7 @@ it("should be decoded from JSON without `id` and `isAdmin`") {
 }
 ```
 
-```
+```Swift
 it("should be encoded to JSON skipping `isAdmin`") {
 
 	expect(Settings(
