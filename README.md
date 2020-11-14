@@ -59,8 +59,3 @@ it("should be encoded to JSON skipping `isAdmin`") {
 ## License
 
 > Licensed under the [**MIT License**](https://en.wikipedia.org/wiki/MIT_License).
-
-
-
-
-
